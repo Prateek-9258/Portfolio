@@ -119,7 +119,7 @@ const Footer = () => {
         {/* Bottom Copyright Section */}
         <div className='pt-8 border-t border-neo-primary/10 flex flex-col md:flex-row justify-between items-center gap-4 text-xs md:text-sm text-gray-500 dark:text-gray-400'>
           <motion.p initial={{ opacity: 0 }} whileInView={{ opacity: 1 }}>
-            © 2024 PRATEEK SAINI. ALL RIGHTS RESERVED.
+            © 2026 PRATEEK SAINI. ALL RIGHTS RESERVED.
           </motion.p>
           <div className='flex gap-6 uppercase tracking-widest'>
             <a href='#' className='hover:text-neo-primary transition-colors'>Privacy</a>
